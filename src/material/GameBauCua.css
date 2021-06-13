@@ -9,6 +9,7 @@
 #Home {
   background: rgb(255, 155, 2);
   min-height: 700px;
+  overflow-x: hidden;
 }
 #Home h1,
 h2,
